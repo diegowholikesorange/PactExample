@@ -1,2 +1,2 @@
 # PactExample
-basic Example for PACT Testing
+Basic Example for PACT Testing
